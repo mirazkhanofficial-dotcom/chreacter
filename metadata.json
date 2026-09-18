@@ -1,0 +1,6 @@
+{
+  "name": "Character Rig & Animation Studio",
+  "description": "2D vector character rigger, layer manager, skeleton bones mode, and phoneme lipsync animation preview.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
