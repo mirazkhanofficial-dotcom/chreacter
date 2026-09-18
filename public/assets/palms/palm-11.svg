@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 141 264" width="141" height="264">
+  <!-- Palm 11 (long fingers pointing downwards) -->
+  <path d="M 65,10 C 90,10 115,30 124,70 C 130,105 132,150 128,195 C 125,230 118,252 108,255 C 100,258 94,242 90,215 C 85,175 84,150 82,130 C 76,165 72,212 65,238 C 58,252 50,250 46,230 C 42,195 44,160 48,125 C 36,132 28,130 22,115 C 16,98 20,78 28,60 C 38,38 48,15 65,10 Z" fill="#e5b290" stroke="#af7856" stroke-width="2" stroke-linejoin="round" />
+  <path d="M 58,130 L 65,210" fill="none" stroke="#c58c6b" stroke-width="1.2" />
+  <path d="M 85,135 L 90,205" fill="none" stroke="#c58c6b" stroke-width="1.2" />
+</svg>

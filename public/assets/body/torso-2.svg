@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 816 1530" width="816" height="1530">
+  <defs>
+    <linearGradient id="shirtGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#a8cfee" />
+      <stop offset="50%" stop-color="#93beea" />
+      <stop offset="100%" stop-color="#7eabe0" />
+    </linearGradient>
+    <linearGradient id="shadowGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6f98cd" stop-opacity="0.6" />
+      <stop offset="100%" stop-color="#6f98cd" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+
+  <!-- Neck / Throat Area -->
+  <path d="M 338,180 L 338,340 C 338,400 478,400 478,340 L 478,180 Z" fill="#e5b290" stroke="#af7856" stroke-width="6" />
+  <path d="M 378,300 C 408,335 408,335 438,300" fill="none" stroke="#d49673" stroke-width="5" stroke-linecap="round" />
+
+  <!-- Main Torso / Shirt -->
+  <path d="M 338,320 
+           C 280,335 210,380 170,440 
+           C 140,485 125,550 145,610 
+           C 160,655 205,670 238,620 
+           L 248,590 
+           C 240,730 250,950 262,1180 
+           C 265,1230 268,1270 270,1310 
+           L 546,1310 
+           C 548,1270 551,1230 554,1180 
+           C 566,950 576,730 568,590 
+           L 578,620 
+           C 611,670 656,655 671,610 
+           C 691,550 676,485 646,440 
+           C 606,380 536,335 478,320 
+           C 455,365 361,365 338,320 Z" 
+        fill="url(#shirtGrad)" stroke="#5d88bc" stroke-width="8" stroke-linejoin="round" />
+
+  <!-- Shoulder / Armhole Creases -->
+  <path d="M 238,600 C 265,580 275,500 255,445" fill="none" stroke="#5d88bc" stroke-width="7" stroke-linecap="round" />
+  <path d="M 578,600 C 551,580 541,500 561,445" fill="none" stroke="#5d88bc" stroke-width="7" stroke-linecap="round" />
+
+  <!-- Shirt Collar -->
+  <path d="M 335,320 L 408,445 L 408,350 L 370,305 Z" fill="#b9dcfa" stroke="#5d88bc" stroke-width="6" stroke-linejoin="round" />
+  <path d="M 481,320 L 408,445 L 408,350 L 446,305 Z" fill="#cfe8fd" stroke="#5d88bc" stroke-width="6" stroke-linejoin="round" />
+
+  <!-- Center Placket & Buttons -->
+  <path d="M 408,445 L 408,1310" stroke="#5d88bc" stroke-width="6" stroke-dasharray="1 0" />
+  <path d="M 392,445 L 392,1310" stroke="#7eabe0" stroke-width="2" />
+  <path d="M 424,445 L 424,1310" stroke="#7eabe0" stroke-width="2" />
+  
+  <circle cx="408" cy="530" r="10" fill="#f8fafc" stroke="#5d88bc" stroke-width="4" />
+  <circle cx="408" cy="670" r="10" fill="#f8fafc" stroke="#5d88bc" stroke-width="4" />
+  <circle cx="408" cy="810" r="10" fill="#f8fafc" stroke="#5d88bc" stroke-width="4" />
+  <circle cx="408" cy="950" r="10" fill="#f8fafc" stroke="#5d88bc" stroke-width="4" />
+  <circle cx="408" cy="1090" r="10" fill="#f8fafc" stroke="#5d88bc" stroke-width="4" />
+  <circle cx="408" cy="1230" r="10" fill="#f8fafc" stroke="#5d88bc" stroke-width="4" />
+
+  <!-- Subtle Chest / Side Wrinkle Lines -->
+  <path d="M 285,690 C 330,730 360,735 385,720" fill="none" stroke="#6f98cd" stroke-width="5" stroke-linecap="round" />
+  <path d="M 531,690 C 486,730 456,735 431,720" fill="none" stroke="#6f98cd" stroke-width="5" stroke-linecap="round" />
+  <path d="M 275,1010 C 320,1035 355,1030 380,1015" fill="none" stroke="#6f98cd" stroke-width="5" stroke-linecap="round" />
+  <path d="M 541,1010 C 496,1035 461,1030 436,1015" fill="none" stroke="#6f98cd" stroke-width="5" stroke-linecap="round" />
+
+  <!-- Waistband / Trousers Top (Dark bottom in screenshot) -->
+  <path d="M 268,1310 L 260,1470 C 260,1500 556,1500 556,1470 L 548,1310 Z" fill="#35312e" stroke="#1f1c1a" stroke-width="8" stroke-linejoin="round" />
+  <!-- Belt Details -->
+  <rect x="375" y="1325" width="66" height="50" rx="6" fill="#71717a" stroke="#27272a" stroke-width="5" />
+  <rect x="387" y="1335" width="42" height="30" rx="3" fill="#3f3f46" />
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 221 190" width="221" height="190">
+  <!-- Smartphone (diagonal) -->
+  <rect x="75" y="15" width="85" height="145" rx="10" transform="rotate(-35 117 87)" fill="#b8a292" stroke="#6b5748" stroke-width="2.5" />
+  <!-- Screen highlight -->
+  <rect x="80" y="22" width="75" height="131" rx="6" transform="rotate(-35 117 87)" fill="#9e8979" />
+  <!-- Hand grasping the phone -->
+  <path d="M 45,110 C 35,130 42,160 65,178 C 85,192 120,188 145,170 C 160,158 175,138 185,115 C 190,102 182,90 168,95 C 150,102 135,115 125,125 C 115,135 95,145 75,138 C 60,132 50,122 45,110 Z" fill="#e5b290" stroke="#af7856" stroke-width="2.2" stroke-linejoin="round" />
+  <!-- Fingers wrapping around phone edge -->
+  <path d="M 80,68 C 88,60 102,64 106,78 C 108,88 100,98 88,102" fill="#e5b290" stroke="#af7856" stroke-width="2" />
+  <path d="M 98,82 C 106,75 120,80 122,94 C 124,104 116,112 105,115" fill="#e5b290" stroke="#af7856" stroke-width="2" />
+  <path d="M 116,98 C 124,92 138,98 138,110 C 138,120 130,128 120,130" fill="#e5b290" stroke="#af7856" stroke-width="2" />
+  <!-- Thumb across front -->
+  <path d="M 42,118 C 55,102 75,98 90,110 C 100,118 95,132 82,135" fill="#e5b290" stroke="#af7856" stroke-width="2" />
+</svg>

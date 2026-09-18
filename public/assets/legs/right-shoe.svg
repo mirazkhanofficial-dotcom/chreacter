@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 336 212" width="336" height="212">
+  <defs>
+    <linearGradient id="leatherGradRight" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#4a4038" />
+      <stop offset="60%" stop-color="#38302a" />
+      <stop offset="100%" stop-color="#241e1a" />
+    </linearGradient>
+  </defs>
+
+  <!-- Ankle opening / Sock interior -->
+  <ellipse cx="238" cy="62" rx="36" ry="17" fill="#201b17" stroke="#171310" stroke-width="4" />
+
+  <!-- Shoe Upper Body -->
+  <path d="M 202,62 
+           C 168,78 135,105 105,125 
+           C 74,144 48,156 26,168 
+           C 16,176 18,190 36,192 
+           L 160,192 
+           C 190,192 212,188 232,184 
+           L 305,184 
+           C 316,184 322,172 318,152 
+           C 310,120 298,78 274,62 
+           Z" 
+        fill="url(#leatherGradRight)" stroke="#1a1512" stroke-width="4" stroke-linejoin="round" />
+
+  <!-- Sole & Heel -->
+  <!-- Sole bottom -->
+  <path d="M 24,190 L 310,190 C 316,190 320,198 314,202 L 302,208 L 22,208 C 14,208 12,200 18,194 Z" fill="#171310" />
+  <!-- Distinct Raised Heel -->
+  <path d="M 228,190 L 310,190 L 306,210 L 224,210 Z" fill="#0d0a08" stroke="#1a1512" stroke-width="2" />
+
+  <!-- Shoe Laces & Stitching -->
+  <path d="M 136,112 C 152,108 172,102 188,96" fill="none" stroke="#221c17" stroke-width="3" stroke-linecap="round" />
+  <path d="M 144,124 C 158,120 178,114 192,107" fill="none" stroke="#221c17" stroke-width="3" stroke-linecap="round" />
+  <path d="M 154,136 C 166,131 184,125 196,118" fill="none" stroke="#221c17" stroke-width="3" stroke-linecap="round" />
+
+  <!-- Toe cap seam line -->
+  <path d="M 72,150 C 90,165 100,180 104,190" fill="none" stroke="#2c241e" stroke-width="3" stroke-linecap="round" />
+</svg>

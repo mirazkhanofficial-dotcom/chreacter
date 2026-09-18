@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 196 177" width="196" height="177">
+  <!-- Palm 10 (hand gesturing leftward/downward) -->
+  <path d="M 175,45 C 170,25 150,15 130,22 C 105,32 75,55 50,85 C 30,110 15,128 12,142 C 10,155 22,162 38,155 C 60,145 95,120 125,100 C 145,86 168,75 180,62 C 185,55 182,48 175,45 Z" fill="#e5b290" stroke="#af7856" stroke-width="2" stroke-linejoin="round" />
+  <!-- Folded fingers/creases -->
+  <path d="M 50,90 C 70,112 110,115 140,95" fill="none" stroke="#af7856" stroke-width="1.8" />
+  <path d="M 42,118 C 65,135 98,135 125,115" fill="none" stroke="#af7856" stroke-width="1.8" />
+  <path d="M 125,60 C 135,75 145,90 148,115" fill="none" stroke="#c58c6b" stroke-width="1.5" />
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 184 500" width="184" height="500">
+  <!-- Right Upper Arm Sleeve -->
+  <path d="M 60,15 C 80,12 110,12 135,18 C 155,50 160,180 152,380 C 150,440 145,475 130,488 C 115,496 75,495 55,482 C 45,430 40,250 48,100 C 52,50 55,25 60,15 Z" fill="#8cb7dc" stroke="#5d88ad" stroke-width="3" stroke-linejoin="round" />
+  <!-- Fabric folds/creases -->
+  <path d="M 52,440 C 70,455 105,455 135,445" fill="none" stroke="#6893b8" stroke-width="3" stroke-linecap="round" />
+  <path d="M 62,468 C 80,480 110,480 130,470" fill="none" stroke="#6893b8" stroke-width="2.5" stroke-linecap="round" />
+  <path d="M 50,220 C 58,260 55,300 48,340" fill="none" stroke="#6893b8" stroke-width="2" stroke-linecap="round" />
+</svg>

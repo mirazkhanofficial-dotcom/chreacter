@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 93 234" width="93" height="234">
+  <!-- Palm 2 (slender downward relaxed hand) -->
+  <path d="M 35,10 C 55,10 70,25 75,50 C 80,75 82,120 80,165 C 78,195 72,218 64,222 C 58,225 54,215 52,195 C 48,160 48,140 46,120 C 42,150 40,190 35,210 C 30,225 24,220 22,205 C 20,175 22,145 25,115 C 18,125 12,120 10,110 C 8,95 12,70 18,50 C 24,30 28,15 35,10 Z" fill="#e5b290" stroke="#af7856" stroke-width="2" stroke-linejoin="round" />
+  <path d="M 45,120 C 48,150 50,180 52,195" fill="none" stroke="#c58c6b" stroke-width="1.2" />
+  <path d="M 30,120 C 32,150 34,175 35,190" fill="none" stroke="#c58c6b" stroke-width="1.2" />
+</svg>

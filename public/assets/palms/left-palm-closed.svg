@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 141 162" width="141" height="162">
+  <!-- Left Palm Closed (fist) -->
+  <path d="M 45,15 C 75,10 115,20 125,50 C 135,75 130,115 110,140 C 95,155 55,158 35,145 C 18,135 12,110 15,85 C 18,60 30,30 45,15 Z" fill="#e5b290" stroke="#af7856" stroke-width="2.5" stroke-linejoin="round" />
+  <!-- Folded fingers lines -->
+  <path d="M 40,55 C 65,50 105,58 118,72" fill="none" stroke="#af7856" stroke-width="2" stroke-linecap="round" />
+  <path d="M 35,80 C 60,76 100,82 112,98" fill="none" stroke="#af7856" stroke-width="2" stroke-linecap="round" />
+  <path d="M 32,108 C 55,104 90,108 102,122" fill="none" stroke="#af7856" stroke-width="2" stroke-linecap="round" />
+  <!-- Thumb wrap -->
+  <path d="M 28,60 C 22,80 25,115 48,130 C 58,135 68,132 75,120" fill="none" stroke="#af7856" stroke-width="2" stroke-linecap="round" />
+</svg>

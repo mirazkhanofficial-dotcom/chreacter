@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 54" width="150" height="54">
+  <!-- Upper Lip -->
+  <path d="M 6,27 C 32,15 56,11 75,19 C 94,11 118,15 144,27 C 118,24 92,23 75,26 C 58,23 32,24 6,27 Z" fill="#9e563f" stroke="#4d2417" stroke-width="1.5" />
+  <!-- Center seam -->
+  <path d="M 12,27 C 45,26 105,26 138,27" stroke="#38150c" stroke-width="2" />
+  <!-- Lower Lip -->
+  <path d="M 10,28 C 36,32 114,32 140,28 C 122,46 28,46 10,28 Z" fill="#b0644b" stroke="#4d2417" stroke-width="1.5" />
+</svg>

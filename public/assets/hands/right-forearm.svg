@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 156 449" width="156" height="449">
+  <!-- Wrist skin tone stub at bottom -->
+  <path d="M 60,390 L 92,390 C 92,425 90,442 76,442 C 62,442 60,425 60,390 Z" fill="#e5b290" stroke="#af7856" stroke-width="2" />
+  <!-- Forearm sleeve -->
+  <path d="M 46,18 C 60,10 96,10 114,18 C 128,45 132,110 130,240 C 128,320 115,385 102,396 C 94,402 62,402 54,396 C 40,385 30,320 32,240 C 35,110 38,45 46,18 Z" fill="#8cb7dc" stroke="#5d88ad" stroke-width="3" stroke-linejoin="round" />
+  <!-- Top and bottom cuff/folds -->
+  <path d="M 42,36 C 60,54 100,54 116,36" fill="none" stroke="#6893b8" stroke-width="2.5" stroke-linecap="round" />
+  <path d="M 50,385 C 68,394 88,394 104,385" fill="none" stroke="#6893b8" stroke-width="3" stroke-linecap="round" />
+  <path d="M 48,398 C 68,406 90,406 106,398" fill="none" stroke="#5d88ad" stroke-width="2.5" stroke-linecap="round" />
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 123 181" width="123" height="181">
+  <!-- Palm 6 (relaxed angled palm pointing down) -->
+  <path d="M 52,10 C 72,10 92,25 100,55 C 105,80 108,115 104,145 C 100,165 92,176 84,175 C 78,174 74,160 72,142 C 68,115 68,98 66,85 C 60,110 56,145 50,162 C 45,172 38,170 36,155 C 34,132 36,108 38,82 C 28,88 22,82 18,72 C 14,60 16,42 24,30 C 32,18 42,12 52,10 Z" fill="#e5b290" stroke="#af7856" stroke-width="2" stroke-linejoin="round" />
+  <path d="M 48,90 L 52,140" fill="none" stroke="#c58c6b" stroke-width="1.2" />
+  <path d="M 68,92 L 72,135" fill="none" stroke="#c58c6b" stroke-width="1.2" />
+</svg>

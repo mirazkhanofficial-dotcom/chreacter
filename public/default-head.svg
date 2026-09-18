@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 311 401" width="311" height="401">
+  <defs>
+    <linearGradient id="skinGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FCDCC5"/>
+      <stop offset="70%" stop-color="#F5C0A0"/>
+      <stop offset="100%" stop-color="#EAA682"/>
+    </linearGradient>
+    <linearGradient id="hairGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3D2619"/>
+      <stop offset="60%" stop-color="#2A1910"/>
+      <stop offset="100%" stop-color="#1B0F09"/>
+    </linearGradient>
+    <linearGradient id="eyeGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#612115"/>
+      <stop offset="100%" stop-color="#7C2C1D"/>
+    </linearGradient>
+  </defs>
+
+  <path d="M 235 270 Q 237 295 238 315 L 243 318 Q 242 290 238 270 Z" fill="#24130D" />
+
+  <path d="M 232 208 C 255 208 280 230 274 260 C 268 285 240 290 228 275" 
+        fill="url(#skinGrad)" stroke="#1B0F09" stroke-width="3" stroke-linecap="round"/>
+  <path d="M 245 228 C 258 238 258 258 248 266 M 245 245 C 252 248 252 256 244 260" 
+        fill="none" stroke="#B8765A" stroke-width="2.5" stroke-linecap="round"/>
+
+  <path d="M 52 145 
+           C 40 205 70 280 95 340 
+           C 105 365 118 385 135 390 
+           C 155 390 178 355 210 300 
+           C 230 260 235 215 228 170
+           C 220 120 180 90 140 92 
+           C 95 94 60 115 52 145 Z" 
+        fill="url(#skinGrad)" stroke="#1B0F09" stroke-width="3.5" stroke-linejoin="round"/>
+
+  <path d="M 55 140 C 60 135 90 110 130 112 C 160 113 195 125 215 155 C 220 162 225 180 228 190" 
+        fill="none" stroke="#2A1910" stroke-width="2.5"/>
+
+  <path d="M 76 200 C 85 188 115 188 128 200 C 132 215 122 232 108 235 C 88 235 72 218 76 200 Z" 
+        fill="url(#eyeGrad)" stroke="#1B0F09" stroke-width="2.5"/>
+  <path d="M 74 195 C 85 182 118 182 130 196" 
+        fill="none" stroke="#1B0F09" stroke-width="3" stroke-linecap="round"/>
+
+  <path d="M 172 195 C 182 186 210 186 220 196 C 224 210 216 228 202 230 C 185 230 168 214 172 195 Z" 
+        fill="url(#eyeGrad)" stroke="#1B0F09" stroke-width="2.5"/>
+  <path d="M 170 190 C 182 180 212 180 224 192" 
+        fill="none" stroke="#1B0F09" stroke-width="3" stroke-linecap="round"/>
+
+  <path d="M 124 192 C 132 208 126 240 115 265 C 112 272 116 280 128 282 C 138 283 148 275 142 268" 
+        fill="none" stroke="#1B0F09" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 120 274 Q 130 286 142 278" 
+        fill="#D98A6C" opacity="0.6"/>
+
+  <path d="M 122 288 C 128 296 140 296 148 290" 
+        fill="none" stroke="#B8765A" stroke-width="2" stroke-linecap="round"/>
+
+  <path d="M 130 382 Q 138 386 146 382" 
+        fill="none" stroke="#B8765A" stroke-width="2" stroke-linecap="round"/>
+
+  <path d="M 52 145 
+           C 40 115 42 75 75 52 
+           C 110 25 180 25 220 48 
+           C 255 68 275 105 272 145 
+           C 268 180 248 210 232 215 
+           C 228 178 215 155 195 130 
+           C 170 115 130 110 95 115 
+           C 65 120 55 135 52 145 Z" 
+        fill="url(#hairGrad)" stroke="#1B0F09" stroke-width="3.5" stroke-linejoin="round"/>
+
+  <path d="M 85 45 C 130 40 185 45 225 68" fill="none" stroke="#523524" stroke-width="2" stroke-linecap="round"/>
+  <path d="M 75 72 C 120 62 175 68 218 90" fill="none" stroke="#523524" stroke-width="2" stroke-linecap="round"/>
+  <path d="M 70 100 C 110 88 160 92 205 115" fill="none" stroke="#523524" stroke-width="2" stroke-linecap="round"/>
+  <path d="M 230 120 C 248 135 255 160 252 185" fill="none" stroke="#523524" stroke-width="2" stroke-linecap="round"/>
+</svg>

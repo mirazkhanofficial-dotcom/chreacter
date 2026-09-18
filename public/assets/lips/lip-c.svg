@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 92 97" width="92" height="97">
+  <!-- Round O Mouth Contour -->
+  <path d="M 12,38 C 14,14 78,14 80,38 C 82,72 10,72 12,38 Z" fill="#9e563f" stroke="#4d2417" stroke-width="2" />
+  <!-- Cavity -->
+  <path d="M 22,40 C 24,24 68,24 70,40 C 71,64 21,64 22,40 Z" fill="#290f0c" />
+  <!-- Upper Teeth -->
+  <path d="M 27,33 C 38,28 54,28 65,33 C 62,39 30,39 27,33 Z" fill="#ffffff" />
+  <!-- Lower Lip highlight -->
+  <path d="M 20,62 C 34,76 58,76 72,62 C 65,85 27,85 20,62 Z" fill="#b0644b" stroke="#4d2417" stroke-width="1.5" />
+</svg>

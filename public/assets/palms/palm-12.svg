@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 133 188" width="133" height="188">
+  <!-- Palm 12 (flexed wrist / cupped hand) -->
+  <path d="M 50,15 C 75,10 100,20 110,48 C 120,75 125,120 118,155 C 112,175 100,185 88,182 C 78,180 72,165 72,145 C 72,120 72,105 70,88 C 65,115 60,155 52,172 C 45,182 35,178 34,160 C 32,130 35,95 40,65 C 28,75 22,68 18,52 C 15,38 20,22 35,16 C 40,14 46,14 50,15 Z" fill="#e5b290" stroke="#af7856" stroke-width="2" stroke-linejoin="round" />
+  <path d="M 52,90 L 56,150" fill="none" stroke="#c58c6b" stroke-width="1.2" />
+  <path d="M 75,92 L 78,140" fill="none" stroke="#c58c6b" stroke-width="1.2" />
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 132 230" width="132" height="230">
+  <!-- Palm 4 (open palm with distinct spread thumb) -->
+  <path d="M 65,10 C 85,10 105,25 110,60 C 114,85 112,130 110,165 C 108,190 102,212 94,216 C 88,218 82,208 80,188 C 76,155 76,135 74,115 C 68,145 64,185 58,205 C 54,218 46,215 45,200 C 42,175 44,140 46,110 C 35,115 28,110 22,95 C 15,80 18,55 25,40 C 30,30 38,45 42,65 C 45,35 55,15 65,10 Z" fill="#e5b290" stroke="#af7856" stroke-width="2" stroke-linejoin="round" />
+  <!-- Thumb spread to the left -->
+  <path d="M 38,65 C 30,45 20,40 12,50 C 5,60 10,80 20,95 C 28,105 38,105 45,95" fill="#e5b290" stroke="#af7856" stroke-width="2" stroke-linejoin="round" />
+  <path d="M 60,118 L 65,180" fill="none" stroke="#c58c6b" stroke-width="1.2" />
+  <path d="M 78,118 L 84,175" fill="none" stroke="#c58c6b" stroke-width="1.2" />
+</svg>

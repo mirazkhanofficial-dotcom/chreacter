@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 46 82" width="46" height="82">
+  <!-- Tall narrow O/E mouth -->
+  <path d="M 6,34 C 6,12 40,12 40,34 C 40,64 6,64 6,34 Z" fill="#9e563f" stroke="#4d2417" stroke-width="2" />
+  <path d="M 13,35 C 13,20 33,20 33,35 C 33,56 13,56 13,35 Z" fill="#290f0c" />
+  <path d="M 17,48 C 21,43 25,43 29,48 C 27,53 19,53 17,48 Z" fill="#cf5c55" />
+</svg>

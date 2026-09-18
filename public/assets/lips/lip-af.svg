@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 130 80" width="130" height="80">
+  <!-- Upper Lip -->
+  <path d="M 5,30 C 28,16 50,12 65,18 C 80,12 102,16 125,30 C 102,28 80,28 65,31 C 50,28 28,28 5,30 Z" fill="#9e563f" stroke="#4d2417" stroke-width="1.5" />
+  <!-- Clenched Teeth Grin -->
+  <path d="M 12,32 C 38,30 92,30 118,32 C 108,54 22,54 12,32 Z" fill="#290f0c" stroke="#4d2417" stroke-width="1" />
+  <!-- Teeth Block with horizontal teeth line -->
+  <path d="M 18,33 C 42,32 88,32 112,33 C 105,51 25,51 18,33 Z" fill="#ffffff" />
+  <line x1="20" y1="42" x2="110" y2="42" stroke="#d0d0d0" stroke-width="1" />
+  <line x1="65" y1="33" x2="65" y2="51" stroke="#d0d0d0" stroke-width="0.8" />
+  <line x1="50" y1="33" x2="50" y2="51" stroke="#d0d0d0" stroke-width="0.8" />
+  <line x1="80" y1="33" x2="80" y2="51" stroke="#d0d0d0" stroke-width="0.8" />
+  <!-- Lower Lip -->
+  <path d="M 10,34 C 35,56 95,56 120,34 C 106,72 24,72 10,34 Z" fill="#b0644b" stroke="#4d2417" stroke-width="1.5" />
+</svg>

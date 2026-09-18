@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 38" width="150" height="38">
+  <!-- Left Eye White -->
+  <path d="M 8,20 C 14,10 32,8 54,16 C 54,24 34,31 8,20 Z" fill="#ffffff" stroke="#e0e0e0" stroke-width="0.5" />
+  <!-- Right Eye White -->
+  <path d="M 96,16 C 118,8 136,10 142,20 C 116,31 96,24 96,16 Z" fill="#ffffff" stroke="#e0e0e0" stroke-width="0.5" />
+</svg>

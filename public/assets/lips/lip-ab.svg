@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 130 74" width="130" height="74">
+  <!-- Upper Lip -->
+  <path d="M 5,30 C 28,17 50,13 65,19 C 80,13 102,17 125,30 C 102,28 80,28 65,31 C 50,28 28,28 5,30 Z" fill="#9e563f" stroke="#4d2417" stroke-width="1.5" />
+  <!-- Cavity -->
+  <path d="M 14,31 C 38,30 92,30 116,31 C 105,48 25,48 14,31 Z" fill="#290f0c" stroke="#4d2417" stroke-width="1" />
+  <!-- Upper Teeth -->
+  <path d="M 22,31 C 45,30 85,30 108,31 C 100,40 30,40 22,31 Z" fill="#ffffff" />
+  <!-- Lower Lip -->
+  <path d="M 12,33 C 35,49 95,49 118,33 C 104,65 26,65 12,33 Z" fill="#b0644b" stroke="#4d2417" stroke-width="1.5" />
+</svg>

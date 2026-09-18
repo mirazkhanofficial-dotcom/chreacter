@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 199 493" width="199" height="493">
+  <!-- Left Upper Arm Sleeve (curved outer contour as seen in screenshot) -->
+  <path d="M 100,10 C 120,15 140,25 150,45 C 170,100 178,240 175,380 C 173,440 165,475 145,488 C 125,498 85,496 68,480 C 50,440 30,340 32,240 C 34,160 55,70 100,10 Z" fill="#8cb7dc" stroke="#5d88ad" stroke-width="3" stroke-linejoin="round" />
+  <!-- Fabric folds/creases -->
+  <path d="M 68,445 C 90,460 130,460 155,445" fill="none" stroke="#6893b8" stroke-width="3" stroke-linecap="round" />
+  <path d="M 75,470 C 95,480 125,480 142,470" fill="none" stroke="#6893b8" stroke-width="2.5" stroke-linecap="round" />
+  <path d="M 160,200 C 168,250 165,300 158,350" fill="none" stroke="#6893b8" stroke-width="2" stroke-linecap="round" />
+</svg>

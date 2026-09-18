@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 159 46" width="159" height="46">
+  <!-- Left Eyelid -->
+  <path d="M 8,24 C 18,10 40,8 64,19 C 64,28 38,38 8,24 Z" fill="#f2be9b" stroke="#cf9872" stroke-width="0.75" />
+  <!-- Right Eyelid -->
+  <path d="M 95,19 C 119,8 141,10 151,24 C 121,38 95,28 95,19 Z" fill="#f2be9b" stroke="#cf9872" stroke-width="0.75" />
+</svg>

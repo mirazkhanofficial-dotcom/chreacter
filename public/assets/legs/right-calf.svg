@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 191 613" width="191" height="613">
+  <!-- Right Calf (trouser lower leg) -->
+  <path d="M 38,25 C 65,20 130,20 155,35 C 165,85 168,205 164,365 C 160,470 154,555 146,590 C 142,602 105,602 82,595 C 68,565 55,465 45,350 C 35,245 32,110 38,25 Z" 
+        fill="#3f3933" stroke="#2b2622" stroke-width="6" stroke-linejoin="round" />
+  <!-- Trouser crease / seam highlights -->
+  <path d="M 98,45 L 110,590" stroke="#4d463e" stroke-width="4.5" stroke-linecap="round" />
+  <path d="M 40,230 C 56,255 76,255 88,240" fill="none" stroke="#2b2622" stroke-width="3.5" stroke-linecap="round" />
+  <path d="M 108,540 C 128,555 145,550 154,538" fill="none" stroke="#2b2622" stroke-width="3.5" stroke-linecap="round" />
+</svg>

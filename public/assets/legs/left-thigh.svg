@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 305 698" width="305" height="698">
+  <!-- Left Thigh (trouser upper leg) -->
+  <path d="M 65,30 C 110,25 210,25 250,45 C 265,95 270,220 265,400 C 260,520 250,620 240,665 C 235,680 185,685 145,675 C 130,640 105,520 85,380 C 70,260 55,120 65,30 Z" 
+        fill="#3f3933" stroke="#2b2622" stroke-width="6" stroke-linejoin="round" />
+  <!-- Trouser crease / seam highlights -->
+  <path d="M 165,55 L 180,665" stroke="#4d463e" stroke-width="5" stroke-linecap="round" />
+  <path d="M 75,260 C 95,290 120,290 135,275" fill="none" stroke="#2b2622" stroke-width="4" stroke-linecap="round" />
+  <path d="M 175,620 C 205,635 235,630 250,615" fill="none" stroke="#2b2622" stroke-width="4" stroke-linecap="round" />
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 112 46" width="112" height="46">
+  <!-- Upper Lip -->
+  <path d="M 5,23 C 24,13 42,9 56,16 C 70,9 88,13 107,23 C 88,20 68,20 56,22 C 44,20 24,20 5,23 Z" fill="#9e563f" stroke="#4d2417" stroke-width="1.5" />
+  <!-- Center line -->
+  <path d="M 10,23 C 34,22 78,22 102,23" stroke="#38150c" stroke-width="1.8" />
+  <!-- Lower Lip -->
+  <path d="M 8,24 C 28,27 84,27 104,24 C 90,39 22,39 8,24 Z" fill="#b0644b" stroke="#4d2417" stroke-width="1.5" />
+</svg>

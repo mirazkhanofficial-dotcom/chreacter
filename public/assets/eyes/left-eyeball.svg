@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29 34" width="29" height="34">
+  <defs>
+    <radialGradient id="irisGradL" cx="50%" cy="45%" r="50%">
+      <stop offset="0%" stop-color="#553018" />
+      <stop offset="65%" stop-color="#2a160a" />
+      <stop offset="100%" stop-color="#120803" />
+    </radialGradient>
+  </defs>
+  <!-- Outer eye contour / shadow -->
+  <ellipse cx="14.5" cy="17" rx="13" ry="15.5" fill="#120803" />
+  <!-- Iris -->
+  <ellipse cx="14.5" cy="17" rx="12" ry="14.5" fill="url(#irisGradL)" />
+  <!-- Iris texture ring -->
+  <ellipse cx="14.5" cy="17" rx="12" ry="14.5" fill="none" stroke="#684224" stroke-width="0.8" opacity="0.4" />
+  <!-- Pupil -->
+  <ellipse cx="14.5" cy="17" rx="5.5" ry="7" fill="#080301" />
+  <!-- Highlight -->
+  <ellipse cx="11" cy="12.5" rx="2.5" ry="1.5" fill="#ffffff" opacity="0.85" />
+</svg>

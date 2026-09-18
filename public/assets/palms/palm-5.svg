@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 248 169" width="248" height="169">
+  <!-- Palm 5 (wide splayed open hand with 5 distinct spread fingers) -->
+  <path d="M 115,145 C 95,150 70,140 50,115 C 32,95 20,70 12,50 C 8,40 18,32 28,40 C 40,50 62,75 75,90 C 65,70 52,42 46,25 C 42,15 54,8 64,16 C 78,28 98,62 108,82 C 102,58 98,30 96,15 C 95,5 108,2 116,10 C 128,24 142,60 148,82 C 152,58 158,35 165,22 C 172,12 184,18 182,30 C 178,50 170,80 166,100 C 178,82 195,68 208,60 C 218,54 228,64 222,76 C 212,95 190,122 170,140 C 150,155 130,158 115,145 Z" fill="#e5b290" stroke="#af7856" stroke-width="2.2" stroke-linejoin="round" />
+  <path d="M 90,95 C 105,115 135,120 155,108" fill="none" stroke="#c58c6b" stroke-width="1.5" />
+  <path d="M 75,105 C 90,125 120,132 145,125" fill="none" stroke="#c58c6b" stroke-width="1.5" />
+</svg>
